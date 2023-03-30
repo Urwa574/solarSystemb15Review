@@ -5,5 +5,10 @@ public class Main {
        solar.sun="2";
        solar.planet="1";
 
+       sun sun=new sun();
+       sun.heat="bdhgf";
+       sun.color="bvdyhgfyh";
+       sun.temperature="1t6273";
+
     }
 }
